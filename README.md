@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning more Coding Stuffs
 
-- 📫 How to reach me: kevinputra721@gmail.com
+- 📫 How to reach me : kevinputra721@gmail.com
 
 - ⚡ Fun fact: Memes are Enjoyable, I likes Memes & Usually creates it.
   
@@ -47,35 +47,23 @@
 
 <h2> 🖌️ 𝙴𝚍𝚒𝚝𝚘𝚛 & 𝙳𝚎𝚜𝚒𝚐𝚗 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="Figma Logo" width = "50px" height = "50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" alt="Canva Logo" width = "50px" height = "50px"></a>
-
-<img src="https://www.apkmirror.com/wp-content/uploads/2019/03/5c91ba43a70c2.png" alt="Photo Editor Logo" width = "50px" height = "50px">
-
-<img src="https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r" alt="Sticker Editor Logo" width = "50px" height = "50px">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" alt="PhotoShop Logo" width = "50px" height = "50px">
-
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="Figma Logo" width = "50px" height = "50px"> </a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" alt="Canva Logo" width = "50px" height = "50px"> </a>
+<a href="https://www.iudesk.com/" target="_blank" rel="noreferrer"> <img src="https://www.apkmirror.com/wp-content/uploads/2019/03/5c91ba43a70c2.png" alt="Photo Editor Logo" width = "50px" height = "50px"> </a>
+<a href="https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp&hl=in&gl=US" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r" alt="Sticker Editor Logo" width = "50px" height = "50px"> </a>
+ <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" alt="PhotoShop Logo" width = "50px" height = "50px"> </a>
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Office Logo" width = "50px" height = "50px"> </a>
 
-
-
 <br>
-
 
 <h2> 🎮 𝙶𝚊𝚖𝚎</h2>
 <h4> 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙿𝚕𝚊𝚢 & 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍 🙂 </h4>
 
-<img src ="https://inceptum-stor.icons8.com/H2aC6PJj6G9x/unnamed.png" width = "50px" height = "50px"> <img src ="https://static.wikia.nocookie.net/punishing-gray-raven/images/e/e6/Site-logo.png/revision/latest?cb=20210602194638" width = "50px" height = "50px">
-<img src ="https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/np2Eb60bDep9fDWtqNNSzqZI.png" width = "50px" height = "50px">
-<img src ="https://seeklogo.com/images/D/dota-2-logo-7804D430C9-seeklogo.com.png" width = "50px" height = "50px">
-<img src ="https://png.pngitem.com/pimgs/s/184-1846111_transparent-final-fantasy-png-final-fantasy-xv-logo.png" width = "50px" height = "50px">
-<img src ="https://www.siliconera.com/wp-content/uploads/2022/02/NieR-Automata-5th-Anniversary.jpg" width = "50px" height = "50px">
-
-
-
+<a href="https://genshin.hoyoverse.com/en/home" target="_blank" rel="noreferrer"> <img src ="https://inceptum-stor.icons8.com/H2aC6PJj6G9x/unnamed.png" width = "50px" height = "50px"> </a>
+<a href="https://pgr.kurogame.net/" target="_blank" rel="noreferrer"> <img src ="https://static.wikia.nocookie.net/punishing-gray-raven/images/e/e6/Site-logo.png/revision/latest?cb=20210602194638" width = "50px" height = "50px"> </a>
+<a href="https://eldenring.bn-ent.net/en/" target="_blank" rel="noreferrer"> <img src ="https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/np2Eb60bDep9fDWtqNNSzqZI.png" width = "50px" height = "50px"></a>
+<a href="https://www.dota2.com/home" target="_blank" rel="noreferrer"> <img src ="https://seeklogo.com/images/D/dota-2-logo-7804D430C9-seeklogo.com.png" width = "50px" height = "50px"> </a>
+<a href="https://finalfantasyxv.square-enix-games.com/" target="_blank" rel="noreferrer"> <img src ="https://png.pngitem.com/pimgs/s/184-1846111_transparent-final-fantasy-png-final-fantasy-xv-logo.png" width = "50px" height = "50px"> </a>
+<a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank" rel="noreferrer"><img src ="https://www.siliconera.com/wp-content/uploads/2022/02/NieR-Automata-5th-Anniversary.jpg" width = "50px" height = "50px"> </a>
 
 <br>
-
-
-
-
