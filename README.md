@@ -73,7 +73,7 @@
 <a href="https://eldenring.bn-ent.net/en/" target="_blank" rel="noreferrer"> <img src ="https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/np2Eb60bDep9fDWtqNNSzqZI.png" width = "50px" height = "50px"></a>
 <a href="https://www.dota2.com/home" target="_blank" rel="noreferrer"> <img src ="https://seeklogo.com/images/D/dota-2-logo-7804D430C9-seeklogo.com.png" width = "50px" height = "50px"> </a>
 <a href="https://finalfantasyxv.square-enix-games.com/" target="_blank" rel="noreferrer"> <img src ="https://png.pngitem.com/pimgs/s/184-1846111_transparent-final-fantasy-png-final-fantasy-xv-logo.png" width = "50px" height = "50px"> </a>
-<a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank" rel="noreferrer"><img src ="https://www.siliconera.com/wp-content/uploads/2022/02/NieR-Automata-5th-Anniversary.jpg" width = "50px" height = "70px"> </a>
+<a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank" rel="noreferrer"><img src ="https://www.siliconera.com/wp-content/uploads/2022/02/NieR-Automata-5th-Anniversary.jpg" width = "70px" height = "50px"> </a>
 
 
 <img src ="https://c.tenor.com/KkrCQld_3HcAAAAd/raiden-shogun-genshin-impact.gif" width = "888px" ></a>
