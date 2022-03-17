@@ -21,7 +21,13 @@
 
 <h2> 📱 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </h2>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width = "50px" height = "50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/facebook/facebook-original.svg" alt="FB logo" width = "50px" height = "50px">
+<a href="www.linkedin.com/in/kevin-ahmadi-b687a9234" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width = "50px" height = "50px"> </a>
+
+
+ 
+
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/facebook/facebook-original.svg" alt="FB logo" width = "50px" height = "50px">
 <img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Discord logo" width = "50px" height = "50px">
 
 
@@ -38,6 +44,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width = "50px" height = "50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" alt="V Studio logo" width = "50px" height = "50px">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizDz&show_icons=true&theme=radical)](https://github.com/VizDz/github-readme-stats)
 
 
 <br>
