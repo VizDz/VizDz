@@ -39,6 +39,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="PYP logo" width = "50px" height = "50px"> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width = "50px" height = "50px"></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" alt="V Studio logo" width = "50px" height = "50px"> </a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse logo" width = "50px" height = "55x"> </a>
+<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Netbeans Logo" width = "50px" height = "60px"> </a>
+<a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/800px-Cisco_logo_blue_2016.svg.png" alt="Cisco Logo" width = "50px" height = "50px"> </a>
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="PowerBI logo" width = "50px" height = "50px"> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R Logo" width = "50px" height = "50px"> </a>
+<a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" alt="SAS Logo" width = "80px" height = "50px"> </a>
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizDz&show_icons=true&theme=radical)](https://github.com/VizDz/github-readme-stats)
 
