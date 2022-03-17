@@ -21,28 +21,24 @@
 
 <h2> 📱 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </h2>
 
-<a href="www.linkedin.com/in/kevin-ahmadi-b687a9234" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width = "50px" height = "50px"> </a>
-
-
- 
-
-
- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/facebook/facebook-original.svg" alt="FB logo" width = "50px" height = "50px">
-<img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Discord logo" width = "50px" height = "50px">
-
-
+<a href="https://www.linkedin.com/in/kevin-ahmadi-b687a9234/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width = "50px" height = "50px"> </a>
+<a href="https://www.facebook.com/kevin.ap.710/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/facebook/facebook-original.svg" alt="FB logo" width = "50px" height = "50px"> </a>
+<a href="https://discordapp.com/users/478149740140429312/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Discord logo" width = "50px" height = "50px"> </a>
 
 <br>
 
 
 <h2> 🧰 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="Github Logo" width = "50px" height = "50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" alt="C logo" width = "50px" height = "50px">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width = "50px" height = "50px"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg " alt="CSS logo" width = "50px" height = "50px"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg " alt="JAVA logo" width = "50px" height = "50px"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="PYP logo" width = "50px" height = "50px"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width = "50px" height = "50px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" alt="V Studio logo" width = "50px" height = "50px">
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" alt="Github Logo" width = "50px" height = "50px"> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50px" height="50px"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50px" height="50px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg " alt="CSS logo" width = "50px" height = "50px"> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="50px" height="50px"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg " alt="JAVA logo" width = "50px" height = "50px">  </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="PYP logo" width = "50px" height = "50px"> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width = "50px" height = "50px"></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" alt="V Studio logo" width = "50px" height = "50px"> </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizDz&show_icons=true&theme=radical)](https://github.com/VizDz/github-readme-stats)
 
@@ -51,10 +47,16 @@
 
 <h2> 🖌️ 𝙴𝚍𝚒𝚝𝚘𝚛 & 𝙳𝚎𝚜𝚒𝚐𝚗 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="Figma Logo" width = "50px" height = "50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" alt="Canva Logo" width = "50px" height = "50px">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="Figma Logo" width = "50px" height = "50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" alt="Canva Logo" width = "50px" height = "50px"></a>
+
 <img src="https://www.apkmirror.com/wp-content/uploads/2019/03/5c91ba43a70c2.png" alt="Photo Editor Logo" width = "50px" height = "50px">
+
 <img src="https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r" alt="Sticker Editor Logo" width = "50px" height = "50px">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" alt="PhotoShop Logo" width = "50px" height = "50px">
+
+<a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Office Logo" width = "50px" height = "50px"> </a>
+
 
 
 <br>
