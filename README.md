@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kevin Ahmadiputra [Viz]
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> , I'm Kevin Ahmadiputra [Viz] !
 
 - 🌱 I’m currently learning more Coding Stuffs
 
