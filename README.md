@@ -67,7 +67,7 @@
 <a href="https://nierautomata.square-enix-games.com/en-us/age-gate/" target="_blank" rel="noreferrer"><img src ="https://www.siliconera.com/wp-content/uploads/2022/02/NieR-Automata-5th-Anniversary.jpg" width = "50px" height = "50px"> </a>
 
 
-<img src ="https://c.tenor.com/KkrCQld_3HcAAAAd/raiden-shogun-genshin-impact.gif" width = "1000px" ></a>
+<img src ="https://c.tenor.com/KkrCQld_3HcAAAAd/raiden-shogun-genshin-impact.gif" width = "888px" ></a>
 
 <br>
 
