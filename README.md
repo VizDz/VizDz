@@ -2,16 +2,16 @@
 𝙷𝚒 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"> , 𝙸'𝚖 𝙺𝚎𝚟𝚒𝚗 𝙰𝚑𝚖𝚊𝚍𝚒𝚙𝚞𝚝𝚛𝚊 [𝚅𝚒𝚣] !</h1>
 
 <h3 align= "center">
-Fresh Gradudate 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 @ 𝙰𝚜𝚒𝚊 𝙿𝚊𝚌𝚒𝚏𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 </h3>
+Fresh Graduate Data 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 @ 𝙰𝚜𝚒𝚊 𝙿𝚊𝚌𝚒𝚏𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 </h3>
 <br>
 
 <h4>
   
-- 🌱 I’m currently learning more Coding Stuffs
+- 🌱 I’m currently learning more about Coding Stuff
 
-- 📫 How to reach me : kevinputra721@gmail.com
+- 📫 How to reach me: kevinputra721@gmail.com
 
-- ⚡ Fun fact: Memes are Enjoyable, I likes Memes & Usually creates it.
+- ⚡ Fun fact: Memes are Enjoyable, I like Memes and usually create them.
   
 - 😎 Like to make Meme Stickers
  
