@@ -51,14 +51,7 @@ As a Fresh Graduate in Computer Science with Specialism in Data Analytics, I bri
 
 <br>
 
-<h2> 🖌️ 𝙴𝚍𝚒𝚝𝚘𝚛 & 𝙳𝚎𝚜𝚒𝚐𝚗 𝚃𝚘𝚘𝚕𝚜 </h2>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="Figma Logo" width = "50px" height = "50px"> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" alt="Canva Logo" width = "50px" height = "50px"> </a>
-<a href="https://www.iudesk.com/" target="_blank" rel="noreferrer"> <img src="https://www.apkmirror.com/wp-content/uploads/2019/03/5c91ba43a70c2.png" alt="Photo Editor Logo" width = "50px" height = "50px"> </a>
-<a href="https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp&hl=in&gl=US" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r" alt="Sticker Editor Logo" width = "50px" height = "50px"> </a>
- <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" alt="PhotoShop Logo" width = "50px" height = "50px"> </a>
-<a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Office Logo" width = "50px" height = "50px"> </a>
 
 <br>
 
