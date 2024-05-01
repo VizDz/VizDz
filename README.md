@@ -9,13 +9,13 @@
 
 <h3 align= "center">
 Fresh Graduate Data 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 @ 𝙰𝚜𝚒𝚊 𝙿𝚊𝚌𝚒𝚏𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
-<h3 align= "center"> 💻 Data Analyst, Data Engineer, & Data Scientist 💻 </h3>
+<h3 align= "center"> 💻 Data Analyst || Data Engineer || Data Scientist 💻 </h3>
 
   
 <h4>
-- 🌱 I’m currently learning more about Coding Stuff
-
 - 📫 How to reach me: kevin.ap1172@gmail.com
+    
+- 🌱 I’m currently learning more about Coding Stuff
  
 - 😴 😴 😴
   
