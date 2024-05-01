@@ -40,7 +40,7 @@ As a Fresh Graduate in Computer Science with Specialism in Data Analytics, I bri
 <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg " alt="JAVA logo" width = "50px" height = "50px">  </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="PYP logo" width = "50px" height = "50px"> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" alt="R Logo" width = "50px" height = "50px"> </a>
-<a href="https://www.sas.com/el_gr/software/on-demand-for-academics.html" target="_blank" rel="noreferrer"> <img src="https://abrudz.github.io/logos/SAS.svg" alt="SAS" width = "50px" height = "50x"> </a>
+<a href="https://www.sas.com/el_gr/software/on-demand-for-academics.html" target="_blank" rel="noreferrer"> <img src="https://www.liblogo.com/img-logo/sa7135saef-sas-logo-sas-logo-icon-in-vector-logo.png" alt="SAS" width = "50px" height = "50x"> </a>
 <br>
 <br>
 
