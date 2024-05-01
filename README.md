@@ -6,7 +6,6 @@
     <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Just pict" width="600x" height="400px"/>
 </h2>
 
-
 <h3 align= "center">
 Fresh Graduate Data 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 @ 𝙰𝚜𝚒𝚊 𝙿𝚊𝚌𝚒𝚏𝚒𝚌 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 
 <h3 align= "center"> 💻 Data Analyst || Data Engineer || Data Scientist 💻 </h3>
@@ -22,13 +21,12 @@ Fresh Graduate Data 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎�
   
 As a Fresh Graduate in Computer Science with Specialism in Data Analytics, I bring a proven track record of acquiring valuable hands-on experience through university modules, extracurricular activities, and Internship experiences. My unwavering commitment to continuous learning and my passion for exploring cutting-edge technologies make me a dedicated and forward-thinking professional.
 </h4>
-<br>
 
+<h2 align = "center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizDz&show_icons=true&theme=radical)](https://github.com/VizDz/github-readme-stats)
 
-<h2> 📱 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎 </h2>
-<a href="https://www.linkedin.com/in/kevin-ahmadi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width = "50px" height = "50px"> </a> </h2>
-<br>
-<br>
+</h2>
 
 
 <h2> 🧰 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 </h2>
@@ -117,17 +115,6 @@ As a Fresh Graduate in Computer Science with Specialism in Data Analytics, I bri
 <a href="https://clickup.com/" rel="noreferrer"> <img src="https://clickup.com/images/for-se-page/clickup.png" alt="ClickUp" width = "50px" height = "50px"> </a>
 <a href="https://slack.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="ClickUp" width = "50px" height = "50px"> </a>
 <br>
-<br>
-
-
-<h2 align = "center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VizDz&show_icons=true&theme=radical)](https://github.com/VizDz/github-readme-stats)
-
-</h2>
-
-
-
 <br>
 
 
