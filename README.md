@@ -9,13 +9,11 @@ Fresh Graduate Data 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜 𝚂𝚝𝚞𝚍𝚎�
   
 - 🌱 I’m currently learning more about Coding Stuff
 
-- 📫 How to reach me: kevinputra721@gmail.com
-
-- ⚡ Fun fact: Memes are Enjoyable, I like Memes and usually create them.
-  
-- 😎 Like to make Meme Stickers
+- 📫 How to reach me: kevin.ap1172@gmail.com
  
-- 😴 😴 😴 
+- 😴 😴 😴
+  
+As a Fresh Graduate in Computer Science with Specialism in Data Analytics, I bring a proven track record of acquiring valuable hands-on experience through university modules, extracurricular activities, and Internship experiences. My unwavering commitment to continuous learning and my passion for exploring cutting-edge technologies make me a dedicated and forward-thinking professional.
   
 </h4>
 
